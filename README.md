@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hello! Welcome to the Tapclub Technology Privacy Policy. This Privacy Policy describes the ways we collect personal data about you and why we do so, how we use your personal data, and the choices you have about your personal data.
+Hello! Welcome to the HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED Privacy Policy. This Privacy Policy describes the ways we collect personal data about you and why we do so, how we use your personal data, and the choices you have about your personal data.
 
 This Privacy Policy applies to all of our games, whether played on mobile devices, PCs or on other platforms such as Facebook. It also applies to our Marketing and Advertising activities on all platforms and other services that we may provide to you from time to time. In this Privacy Policy we refer to our games, websites, marketing and advertising activities and other services collectively as our "Services".
 
@@ -39,11 +39,11 @@ In most cases, we also create a specific ID for you when you use the Service.
 
 ### Data we collect from our partners
 
-If you play Tapclub Technology or access any of our other Services on connected third-party applications or connect our Services to any third-party applications, Tapclub Technology may receive certain information about you from the provider of the third-party application. The information we receive depends on the game you’re playing, the third-party application, your privacy settings and so on.
+If you play HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED or access any of our other Services on connected third-party applications or connect our Services to any third-party applications, HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED may receive certain information about you from the provider of the third-party application. The information we receive depends on the game you’re playing, the third-party application, your privacy settings and so on.
 
 - **Data we receive if you link a third party tool** with the Service (such as Facebook, Google or Appsflyer)
 - **Other publicly-available information** on the third-party application
-- **Any other information** that you or the provider of the third-party application share with Tapclub Technology
+- **Any other information** that you or the provider of the third-party application share with HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED
 - **Demographic data** (such as to determine the coarse location of your IP address)
 - **Data to fight fraud** (such as refund abuse in games or click fraud in advertising)
 - **Data from platforms** that the games run on (such as to verify payment)
@@ -174,11 +174,11 @@ We may update this policy from time to time to reflect changes in technology, la
 
 ## COPYRIGHT POLICY
 
-Tapclub Technology respects the intellectual property of others, and we ask our users to do the same. Tapclub Technology may, in appropriate circumstances and at its discretion, terminate the accounts of users who infringe the intellectual property rights of others. Tapclub Technology owns or has the right to use all the intellectual propriety rights with respect to the content and services that are developed or developed jointly by Tapclub Technology. This content and services are protected by applicable intellectual property laws, copyrights, trademarks, service marks, patents or other proprietary rights and laws.
+HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED respects the intellectual property of others, and we ask our users to do the same. HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED may, in appropriate circumstances and at its discretion, terminate the accounts of users who infringe the intellectual property rights of others. HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED owns or has the right to use all the intellectual propriety rights with respect to the content and services that are developed or developed jointly by HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED. This content and services are protected by applicable intellectual property laws, copyrights, trademarks, service marks, patents or other proprietary rights and laws.
 
 ## LINKS TO OTHER WEBSITES, GAMES OR APPLICATIONS
 
-The Tapclub Technology may contain links to some other Web sites. Tapclub Technology is not responsible for the content or the privacy policy or practices of any other Web sites or for the actions of the companies responsible for those Web sites, please review the privacy policies of those Web sites before providing them with any personal information and publicity of information update. Tapclub Technology strongly encourages its users to update and edit their personal information and keep it current.
+The HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED may contain links to some other Web sites. HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED is not responsible for the content or the privacy policy or practices of any other Web sites or for the actions of the companies responsible for those Web sites, please review the privacy policies of those Web sites before providing them with any personal information and publicity of information update. HONG KONG TAPCLUB TECHNOLOGY CO., LIMITED strongly encourages its users to update and edit their personal information and keep it current.
 
 ## CONTACT US
 
